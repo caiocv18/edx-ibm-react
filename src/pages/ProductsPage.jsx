@@ -62,7 +62,7 @@ const ProductsPage = () => {
                         onClick={() => handleAddToCart(plant)}
                         disabled={isInCart(plant.id)}
                       >
-                        {isInCart(plant.id) ? 'Adicionado ✓' : 'Add to Cart'}
+                        {isInCart(plant.id) ? 'Adicionado ✓' : 'Adicionar ao Carrinho'}
                       </button>
                     </div>
                   </div>

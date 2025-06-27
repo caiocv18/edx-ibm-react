@@ -112,7 +112,7 @@ const CartPage = () => {
             Continuar Comprando
           </button>
           <button className="checkout-btn" onClick={handleCheckout}>
-            Checkout
+            Finalizar Compra
           </button>
         </div>
       </div>

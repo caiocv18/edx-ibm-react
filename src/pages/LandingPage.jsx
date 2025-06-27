@@ -23,7 +23,7 @@ const LandingPage = () => {
             a companheira verde perfeita para o seu espaço.
           </p>
           <button className="get-started-btn" onClick={handleGetStarted}>
-            Get Started
+            Começar
           </button>
         </div>
       </div>
