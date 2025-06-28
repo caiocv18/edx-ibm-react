@@ -2,8 +2,7 @@
 
 ## Website Information
 
-**Website URL:** [Your Deployed Website URL Here - remember to include https:// or http://]
-*Note: Replace this with your actual deployed website URL with proper prefix*
+**Website URL:** [https://caiocv18.github.io/edx-ibm-react](https://caiocv18.github.io/edx-ibm-react)
 
 ## Comprehensive Analysis of Website Features
 
