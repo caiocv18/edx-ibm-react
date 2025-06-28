@@ -4,7 +4,7 @@ export const plants = [
     name: "Monstera Deliciosa",
     price: 45.99,
     category: "Folhagem",
-    image: "/images/monstera-deliciosa.jpg",
+    image: "./images/monstera-deliciosa.jpg",
     description: "Planta tropical com folhas grandes e perfuradas"
   },
   {
@@ -12,7 +12,7 @@ export const plants = [
     name: "Ficus Lyrata",
     price: 65.99,
     category: "Folhagem",
-    image: "/images/ficus-lyrata.jpg",
+    image: "./images/ficus-lyrata.jpg",
     description: "Árvore de interior com folhas grandes em formato de violino"
   },
   {
@@ -20,7 +20,7 @@ export const plants = [
     name: "Suculenta Echeveria",
     price: 12.99,
     category: "Suculentas",
-    image: "/images/suculenta-echeveria.jpg",
+    image: "./images/suculenta-echeveria.jpg",
     description: "Suculenta em formato de roseta, fácil de cuidar"
   },
   {
@@ -28,7 +28,7 @@ export const plants = [
     name: "Cacto Saguaro",
     price: 28.99,
     category: "Suculentas",
-    image: "/images/cacto-saguaro.jpg",
+    image: "./images/cacto-saguaro.jpg",
     description: "Cacto clássico do deserto, resistente e decorativo"
   },
   {
@@ -36,7 +36,7 @@ export const plants = [
     name: "Orquídea Phalaenopsis",
     price: 89.99,
     category: "Floridas",
-    image: "/images/orquidea-phalaenopsis.jpg",
+    image: "./images/orquidea-phalaenopsis.jpg",
     description: "Orquídea elegante com flores duradouras"
   },
   {
@@ -44,7 +44,7 @@ export const plants = [
     name: "Antúrio Vermelho",
     price: 35.99,
     category: "Floridas",
-    image: "/images/anturio-vermelho.jpg",
+    image: "./images/anturio-vermelho.jpg",
     description: "Planta tropical com flores vermelhas brilhantes"
   }
 ];
