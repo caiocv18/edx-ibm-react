@@ -11,7 +11,7 @@ import './App.css';
 function App() {
   return (
     <Provider store={store}>
-      <Router>
+      <Router basename="/edx-ibm-react">
         <div className="App">
           <Header />
           <main>
